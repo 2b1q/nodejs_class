@@ -1,0 +1,13 @@
+{
+  "name": "node_class",
+  "version": "1.0.0",
+  "description": "node.js class",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "2b1q",
+  "license": "ISC"
+}
